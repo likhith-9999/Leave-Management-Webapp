@@ -27,43 +27,6 @@ Leave Management WebApp - This project is designed to simplify the process of ma
 <hr>
 
 
-<h4>Login Form</h4>
-
-![Screenshot (7)](https://github.com/user-attachments/assets/2896f374-7519-44f0-8bda-b1d621da442c)
-
-<h4>DashBoard for an employee</h4>
-
-![Screenshot (9)](https://github.com/user-attachments/assets/dda492ad-4800-4bd8-a772-331cacbbfdaf)
-
-<h4>DashBoard for manager</h4>
-
-![Screenshot (10)](https://github.com/user-attachments/assets/64dd71e6-8cb5-40ff-9117-efabb5b8d43a)
-
-<h4>Apply Leave form</h4>
-
-![Screenshot (11)](https://github.com/user-attachments/assets/cecf8267-4fda-4118-8d0d-3dfc75a04a77)
-
-
-<h4>Employee Leave Management tables</h4>
-
-![Screenshot (12)](https://github.com/user-attachments/assets/dda90f3c-a21f-47ab-baf6-ca98f81178df)
-
-
-<h4>Team Leave Management table for manager</h4>
-
-![Screenshot (13)](https://github.com/user-attachments/assets/beeb485d-3e4a-457f-8aa3-dd713d4e568a)
-
-<h4>On click view more the manager can see employee details and leaves dashboard</h4>
-
-![Screenshot (14)](https://github.com/user-attachments/assets/4c2988bd-b7ad-49cc-9c69-42bff9031f3a)
-
-<h4>Holidays table</h4>
-
-![Screenshot (15)](https://github.com/user-attachments/assets/8cced785-dbf5-4133-8df6-7e321d978ae7)
-
-<h4>Logout profile section</h4>
-
-![Screenshot (16)](https://github.com/user-attachments/assets/0342f525-5450-476b-89a2-f50d8ee2527f)
 
 
 
