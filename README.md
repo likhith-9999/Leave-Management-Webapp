@@ -1,7 +1,7 @@
 # Leave-Management-Webapp
 
 <h2>Overview</h2>
-Leave Management WebApp - This project is designed to streamline the process of managing employee leave requests. With an simple & clean user interface, the app provides different dashboards and views based on the user's role, ensuring that both employees and managers can efficiently handle their leave requests and oversee team activities.
+Leave Management WebApp - This project is designed to simplify the process of managing employee leave requests. With an simple & clean user interface, the app provides different dashboards and views based on the user's role, ensuring that both employees and managers can efficiently handle their leave requests and team activities.
 <hr>
 
 <h2>Features</h2>
